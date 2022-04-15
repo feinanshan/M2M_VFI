@@ -1,7 +1,7 @@
 ## Many-to-many Splatting for Efficient Video Frame Interpolation (CVPR'22)
 
 
-[Ping Hu](http://cs-people.bu.edu/pinghu/), [Simon Niklaus](https://sniklaus.com/welcome/), [Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/), [Kate Saenko](http://ai.bu.edu/ksaenko.html/)
+[Ping Hu](http://cs-people.bu.edu/pinghu/), [Simon Niklaus](https://sniklaus.com/), [Stan Sclaroff](http://www.cs.bu.edu/fac/sclaroff/), [Kate Saenko](http://ai.bu.edu/ksaenko.html)
 
 [[Paper](https://arxiv.org/pdf/2204.03513.pdf)] [[Poster]()] [[Slides]()] [[Video]()]
 
