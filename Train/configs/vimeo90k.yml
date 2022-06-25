@@ -1,0 +1,26 @@
+model:
+  arch: m2m_pwc
+  ratio: 4
+  branch: 4
+  
+
+data:
+  dataset: vimeo90k
+  path: /home/ping/Research/dataset/Vimeo90k/vimeo_triplet
+
+training:
+  n_workers: 4
+  train_iters: 900000
+  batch_size: 12
+  val_interval: 6000
+  optimizer:
+      name: AdamW
+      lr0: 1.0e-4
+      wd: 1.0e-4
+      max_iter: 900000
+      warmup_steps: 2000
+
+  loss:
+      name: [char, ter]
+      weights: [1., 1.]
+  resume: 

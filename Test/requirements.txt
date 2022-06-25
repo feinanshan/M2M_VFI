@@ -1,0 +1,8 @@
+cupy==9.1.0
+numpy==1.20.2
+opencv_contrib_python==4.5.2.54
+Pillow==9.1.1
+scikit_image==0.18.1
+skimage==0.0
+torch==1.8.0
+tqdm==4.61.0
