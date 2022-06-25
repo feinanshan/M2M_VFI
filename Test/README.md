@@ -14,7 +14,7 @@
 
 
 ### 2. Preparation:
-- Download the [pretrained model](https://drive.google.com/file/d/1dO-ArTLJ4cMZuN6dttIFFMLtp4I2LnSG/view?usp=sharing) or copy the trained model to `./TEST`
+- Download the [pretrained model](https://drive.google.com/file/d/1dO-ArTLJ4cMZuN6dttIFFMLtp4I2LnSG/view?usp=sharing) or copy the trained model to `./Test`
 
 - Modify the path to dataset `strPath` in `bench_*.py` accordingly.
 
