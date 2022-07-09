@@ -46,11 +46,5 @@ If you find M2M is helpful in your research, please consider citing:
 
 This is a pytorch re-implementation of M2M, please refer to the original paper ([Many-to-many Splatting for Efficient Video Frame Interpolation](https://arxiv.org/pdf/2204.03513.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Many-to-Many_Splatting_for_Efficient_Video_Frame_Interpolation_CVPR_2022_paper.pdf)) for comparisons.
 
-### References
-
-- [Softmax-Splatting](https://github.com/sniklaus/softmax-splatting)
-- [FLAVR](https://github.com/tarun005/FLAVR)
-- [RIFE](https://github.com/hzwer/arXiv2021-RIFE)
-- [SuperSloMo](https://github.com/avinashpaliwal/Super-SloMo)
 
 
