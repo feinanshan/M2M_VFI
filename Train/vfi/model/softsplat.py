@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+#########################################
+# This implementation is taken from 
+# https://github.com/sniklaus/softmax-splatting
+#########################################
+
 import collections
 import cupy
 import os
