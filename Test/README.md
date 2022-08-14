@@ -48,7 +48,7 @@ Performance of different datasets.
 |Xiph-2K (resized)  |36.44         |0.966       |
 |Xiph-4K (cropped)  |33.92         |0.945       |
 |XTEST-2K     |32.13               |0.926       |
-|XTEST-4K     |31.51               |0.920       |
+|XTEST-4K     |30.88               |0.914       |
 
 
 
