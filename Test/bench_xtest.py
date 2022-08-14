@@ -61,12 +61,12 @@ strPath = '/PATH/TO/XVFI/test/'
 
 
 if __name__ == '__main__':
-    fltPsnr = []
-    fltSsim = []
-
     listFiles = getXVFI(strPath)
 
     for strMode in ['XTEST-2k', 'XTEST-4k']:
+        fltPsnr = []
+        fltSsim = []
+
         for intFrame in tqdm.tqdm(listFiles):  
             npyOne = numpy.array(PIL.Image.open(intFrame[0]))[:, :, ::-1].astype(numpy.float32) * (1.0 / 255.0)
             npyTwo = numpy.array(PIL.Image.open(intFrame[1]))[:, :, ::-1].astype(numpy.float32) * (1.0 / 255.0)
