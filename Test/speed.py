@@ -37,7 +37,7 @@ if __name__ == '__main__':
     torch.cuda.synchronize()
     t_1 = time.time()
 
-    print('size', lstSize, 'steps', intStep, ':', (t_1-t_0)/(intStep*50),'ms/f')
+    print('size', lstSize, 'steps', intStep, ':', 1000*(t_1-t_0)/(intStep*50),'ms/f')
 
 
 
